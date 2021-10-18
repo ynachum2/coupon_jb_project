@@ -183,4 +183,3 @@ public class CouponsDBDAO implements CouponsDAO{
 
     }
 }
-INSERT INTO sql11437103.coupons (company_id, category_id, title, discription, start_date, end_date, amount, price, image VALUES ('2', '2', 'dfg', 'dfg', '0000-00-00', '2025-05-03', '50', '20', '587');
